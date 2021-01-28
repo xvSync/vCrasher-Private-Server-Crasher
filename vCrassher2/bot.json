@@ -1,9 +1,9 @@
 {
   "username": "vsync",
   "password": "123",
-  "gameVersion": "3.41",
+  "gameVersion": "3.51",
   "targetWorld": "START",
-  "ownerUsername": "KWENGY",
-  "ip": "13.82.230.70",
-  "port": 17091
+  "ownerUsername": "WORLDOWNERUSERNAME",
+  "ip": "IP OF SERVER",
+  "port": PORT OF SERVER
 }
